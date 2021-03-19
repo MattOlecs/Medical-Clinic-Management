@@ -1,0 +1,20 @@
+E:\C#_projects\Przychodnia\Medical Clinic\Przychodnia Mateusz Oleksik\bin\Debug\Przychodnia Mateusz Oleksik.exe.config
+E:\C#_projects\Przychodnia\Medical Clinic\Przychodnia Mateusz Oleksik\bin\Debug\Przychodnia Mateusz Oleksik.exe
+E:\C#_projects\Przychodnia\Medical Clinic\Przychodnia Mateusz Oleksik\bin\Debug\Przychodnia Mateusz Oleksik.pdb
+E:\C#_projects\Przychodnia\Medical Clinic\Przychodnia Mateusz Oleksik\obj\Debug\Medical clinic.csprojAssemblyReference.cache
+E:\C#_projects\Przychodnia\Medical Clinic\Przychodnia Mateusz Oleksik\obj\Debug\Przychodnia_Mateusz_Oleksik.Form1.resources
+E:\C#_projects\Przychodnia\Medical Clinic\Przychodnia Mateusz Oleksik\obj\Debug\Przychodnia_Mateusz_Oleksik.FormCzynnościMedyczne.resources
+E:\C#_projects\Przychodnia\Medical Clinic\Przychodnia Mateusz Oleksik\obj\Debug\Przychodnia_Mateusz_Oleksik.FormDodawaniePacjenta.resources
+E:\C#_projects\Przychodnia\Medical Clinic\Przychodnia Mateusz Oleksik\obj\Debug\Przychodnia_Mateusz_Oleksik.FormDodawniePracownika.resources
+E:\C#_projects\Przychodnia\Medical Clinic\Przychodnia Mateusz Oleksik\obj\Debug\Przychodnia_Mateusz_Oleksik.FormEdycjaPacjenta.resources
+E:\C#_projects\Przychodnia\Medical Clinic\Przychodnia Mateusz Oleksik\obj\Debug\Przychodnia_Mateusz_Oleksik.FormEdycjaPracownika.resources
+E:\C#_projects\Przychodnia\Medical Clinic\Przychodnia Mateusz Oleksik\obj\Debug\Przychodnia_Mateusz_Oleksik.FormGabinety.resources
+E:\C#_projects\Przychodnia\Medical Clinic\Przychodnia Mateusz Oleksik\obj\Debug\Przychodnia_Mateusz_Oleksik.FormGodzinyPracy.resources
+E:\C#_projects\Przychodnia\Medical Clinic\Przychodnia Mateusz Oleksik\obj\Debug\Przychodnia_Mateusz_Oleksik.FormPacjenci.resources
+E:\C#_projects\Przychodnia\Medical Clinic\Przychodnia Mateusz Oleksik\obj\Debug\Przychodnia_Mateusz_Oleksik.FormPlanowanieWizyt.resources
+E:\C#_projects\Przychodnia\Medical Clinic\Przychodnia Mateusz Oleksik\obj\Debug\Przychodnia_Mateusz_Oleksik.FormPracownicy.resources
+E:\C#_projects\Przychodnia\Medical Clinic\Przychodnia Mateusz Oleksik\obj\Debug\Przychodnia_Mateusz_Oleksik.Properties.Resources.resources
+E:\C#_projects\Przychodnia\Medical Clinic\Przychodnia Mateusz Oleksik\obj\Debug\Medical clinic.csproj.GenerateResource.cache
+E:\C#_projects\Przychodnia\Medical Clinic\Przychodnia Mateusz Oleksik\obj\Debug\Medical clinic.csproj.CoreCompileInputs.cache
+E:\C#_projects\Przychodnia\Medical Clinic\Przychodnia Mateusz Oleksik\obj\Debug\Przychodnia Mateusz Oleksik.exe
+E:\C#_projects\Przychodnia\Medical Clinic\Przychodnia Mateusz Oleksik\obj\Debug\Przychodnia Mateusz Oleksik.pdb

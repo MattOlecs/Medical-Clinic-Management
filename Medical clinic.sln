@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29926.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Medical clinic", "Przychodnia Mateusz Oleksik\Medical clinic.csproj", "{D4F8E59F-850D-4820-B390-A7B4A9031464}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MedicalClinic_online", "Przychodnia_online\MedicalClinic_online.csproj", "{0469C848-68AE-4104-91D7-7FB48CA812F3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D4F8E59F-850D-4820-B390-A7B4A9031464}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D4F8E59F-850D-4820-B390-A7B4A9031464}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D4F8E59F-850D-4820-B390-A7B4A9031464}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D4F8E59F-850D-4820-B390-A7B4A9031464}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0469C848-68AE-4104-91D7-7FB48CA812F3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0469C848-68AE-4104-91D7-7FB48CA812F3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0469C848-68AE-4104-91D7-7FB48CA812F3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0469C848-68AE-4104-91D7-7FB48CA812F3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1EE397EF-3694-4D25-8DCA-19264F2A2705}
+	EndGlobalSection
+EndGlobal

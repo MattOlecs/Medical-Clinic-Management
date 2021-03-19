@@ -1,0 +1,237 @@
+C:\Users\Mateusz\Desktop\Przychodnia Mateusz Oleksik\Przychodnia_online\bin\Przychodnia_online.dll.config
+C:\Users\Mateusz\Desktop\Przychodnia Mateusz Oleksik\Przychodnia_online\bin\Przychodnia_online.dll
+C:\Users\Mateusz\Desktop\Przychodnia Mateusz Oleksik\Przychodnia_online\bin\Przychodnia_online.pdb
+C:\Users\Mateusz\Desktop\Przychodnia Mateusz Oleksik\Przychodnia_online\bin\roslyn\csc.exe
+C:\Users\Mateusz\Desktop\Przychodnia Mateusz Oleksik\Przychodnia_online\bin\roslyn\csc.exe.config
+C:\Users\Mateusz\Desktop\Przychodnia Mateusz Oleksik\Przychodnia_online\bin\roslyn\csc.rsp
+C:\Users\Mateusz\Desktop\Przychodnia Mateusz Oleksik\Przychodnia_online\bin\roslyn\csi.exe
+C:\Users\Mateusz\Desktop\Przychodnia Mateusz Oleksik\Przychodnia_online\bin\roslyn\csi.exe.config
+C:\Users\Mateusz\Desktop\Przychodnia Mateusz Oleksik\Przychodnia_online\bin\roslyn\csi.rsp
+C:\Users\Mateusz\Desktop\Przychodnia Mateusz Oleksik\Przychodnia_online\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Mateusz\Desktop\Przychodnia Mateusz Oleksik\Przychodnia_online\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Mateusz\Desktop\Przychodnia Mateusz Oleksik\Przychodnia_online\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Mateusz\Desktop\Przychodnia Mateusz Oleksik\Przychodnia_online\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Mateusz\Desktop\Przychodnia Mateusz Oleksik\Przychodnia_online\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Mateusz\Desktop\Przychodnia Mateusz Oleksik\Przychodnia_online\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Mateusz\Desktop\Przychodnia Mateusz Oleksik\Przychodnia_online\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Mateusz\Desktop\Przychodnia Mateusz Oleksik\Przychodnia_online\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Mateusz\Desktop\Przychodnia Mateusz Oleksik\Przychodnia_online\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Mateusz\Desktop\Przychodnia Mateusz Oleksik\Przychodnia_online\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Mateusz\Desktop\Przychodnia Mateusz Oleksik\Przychodnia_online\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Mateusz\Desktop\Przychodnia Mateusz Oleksik\Przychodnia_online\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Mateusz\Desktop\Przychodnia Mateusz Oleksik\Przychodnia_online\bin\roslyn\System.AppContext.dll
+C:\Users\Mateusz\Desktop\Przychodnia Mateusz Oleksik\Przychodnia_online\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Mateusz\Desktop\Przychodnia Mateusz Oleksik\Przychodnia_online\bin\roslyn\System.Console.dll
+C:\Users\Mateusz\Desktop\Przychodnia Mateusz Oleksik\Przychodnia_online\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Mateusz\Desktop\Przychodnia Mateusz Oleksik\Przychodnia_online\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Mateusz\Desktop\Przychodnia Mateusz Oleksik\Przychodnia_online\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Mateusz\Desktop\Przychodnia Mateusz Oleksik\Przychodnia_online\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Mateusz\Desktop\Przychodnia Mateusz Oleksik\Przychodnia_online\bin\roslyn\System.IO.Compression.dll
+C:\Users\Mateusz\Desktop\Przychodnia Mateusz Oleksik\Przychodnia_online\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Mateusz\Desktop\Przychodnia Mateusz Oleksik\Przychodnia_online\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Mateusz\Desktop\Przychodnia Mateusz Oleksik\Przychodnia_online\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Mateusz\Desktop\Przychodnia Mateusz Oleksik\Przychodnia_online\bin\roslyn\System.Net.Http.dll
+C:\Users\Mateusz\Desktop\Przychodnia Mateusz Oleksik\Przychodnia_online\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Mateusz\Desktop\Przychodnia Mateusz Oleksik\Przychodnia_online\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Mateusz\Desktop\Przychodnia Mateusz Oleksik\Przychodnia_online\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Mateusz\Desktop\Przychodnia Mateusz Oleksik\Przychodnia_online\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Mateusz\Desktop\Przychodnia Mateusz Oleksik\Przychodnia_online\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Mateusz\Desktop\Przychodnia Mateusz Oleksik\Przychodnia_online\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Mateusz\Desktop\Przychodnia Mateusz Oleksik\Przychodnia_online\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Mateusz\Desktop\Przychodnia Mateusz Oleksik\Przychodnia_online\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Mateusz\Desktop\Przychodnia Mateusz Oleksik\Przychodnia_online\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Mateusz\Desktop\Przychodnia Mateusz Oleksik\Przychodnia_online\bin\roslyn\System.ValueTuple.dll
+C:\Users\Mateusz\Desktop\Przychodnia Mateusz Oleksik\Przychodnia_online\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Mateusz\Desktop\Przychodnia Mateusz Oleksik\Przychodnia_online\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Mateusz\Desktop\Przychodnia Mateusz Oleksik\Przychodnia_online\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Mateusz\Desktop\Przychodnia Mateusz Oleksik\Przychodnia_online\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Mateusz\Desktop\Przychodnia Mateusz Oleksik\Przychodnia_online\bin\roslyn\vbc.exe
+C:\Users\Mateusz\Desktop\Przychodnia Mateusz Oleksik\Przychodnia_online\bin\roslyn\vbc.exe.config
+C:\Users\Mateusz\Desktop\Przychodnia Mateusz Oleksik\Przychodnia_online\bin\roslyn\vbc.rsp
+C:\Users\Mateusz\Desktop\Przychodnia Mateusz Oleksik\Przychodnia_online\bin\roslyn\VBCSCompiler.exe
+C:\Users\Mateusz\Desktop\Przychodnia Mateusz Oleksik\Przychodnia_online\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Mateusz\Desktop\Przychodnia Mateusz Oleksik\Przychodnia_online\bin\Antlr3.Runtime.dll
+C:\Users\Mateusz\Desktop\Przychodnia Mateusz Oleksik\Przychodnia_online\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\Mateusz\Desktop\Przychodnia Mateusz Oleksik\Przychodnia_online\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\Mateusz\Desktop\Przychodnia Mateusz Oleksik\Przychodnia_online\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\Mateusz\Desktop\Przychodnia Mateusz Oleksik\Przychodnia_online\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\Mateusz\Desktop\Przychodnia Mateusz Oleksik\Przychodnia_online\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Mateusz\Desktop\Przychodnia Mateusz Oleksik\Przychodnia_online\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\Mateusz\Desktop\Przychodnia Mateusz Oleksik\Przychodnia_online\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\Mateusz\Desktop\Przychodnia Mateusz Oleksik\Przychodnia_online\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Mateusz\Desktop\Przychodnia Mateusz Oleksik\Przychodnia_online\bin\Newtonsoft.Json.dll
+C:\Users\Mateusz\Desktop\Przychodnia Mateusz Oleksik\Przychodnia_online\bin\Przychodnia Mateusz Oleksik.exe
+C:\Users\Mateusz\Desktop\Przychodnia Mateusz Oleksik\Przychodnia_online\bin\System.Web.Optimization.dll
+C:\Users\Mateusz\Desktop\Przychodnia Mateusz Oleksik\Przychodnia_online\bin\WebGrease.dll
+C:\Users\Mateusz\Desktop\Przychodnia Mateusz Oleksik\Przychodnia_online\bin\Przychodnia Mateusz Oleksik.pdb
+C:\Users\Mateusz\Desktop\Przychodnia Mateusz Oleksik\Przychodnia_online\bin\Przychodnia Mateusz Oleksik.exe.config
+C:\Users\Mateusz\Desktop\Przychodnia Mateusz Oleksik\Przychodnia_online\bin\System.Web.Optimization.xml
+C:\Users\Mateusz\Desktop\Przychodnia Mateusz Oleksik\Przychodnia_online\bin\Newtonsoft.Json.xml
+C:\Users\Mateusz\Desktop\Przychodnia Mateusz Oleksik\Przychodnia_online\bin\Antlr3.Runtime.pdb
+C:\Users\Mateusz\Desktop\Przychodnia Mateusz Oleksik\Przychodnia_online\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\Mateusz\Desktop\Przychodnia Mateusz Oleksik\Przychodnia_online\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Mateusz\Desktop\Przychodnia Mateusz Oleksik\Przychodnia_online\bin\pl\System.Web.Optimization.resources.dll
+C:\Users\Mateusz\Desktop\Przychodnia Mateusz Oleksik\Przychodnia_online\bin\pl\Microsoft.AspNet.FriendlyUrls.resources.dll
+C:\Users\Mateusz\Desktop\Przychodnia Mateusz Oleksik\Przychodnia_online\obj\Debug\Przychodnia_online.csprojAssemblyReference.cache
+C:\Users\Mateusz\Desktop\Przychodnia Mateusz Oleksik\Przychodnia_online\obj\Debug\Przychodnia_online.csproj.CoreCompileInputs.cache
+C:\Users\Mateusz\Desktop\Przychodnia Mateusz Oleksik\Przychodnia_online\obj\Debug\Przychodnia_online.csproj.CopyComplete
+C:\Users\Mateusz\Desktop\Przychodnia Mateusz Oleksik\Przychodnia_online\obj\Debug\Przychodnia_online.dll
+C:\Users\Mateusz\Desktop\Przychodnia Mateusz Oleksik\Przychodnia_online\obj\Debug\Przychodnia_online.pdb
+E:\Studia\Programowanie\II semestr\Przychodnia\Przychodnia Mateusz Oleksik\Przychodnia_online\bin\Przychodnia_online.dll.config
+E:\Studia\Programowanie\II semestr\Przychodnia\Przychodnia Mateusz Oleksik\Przychodnia_online\bin\Przychodnia_online.dll
+E:\Studia\Programowanie\II semestr\Przychodnia\Przychodnia Mateusz Oleksik\Przychodnia_online\bin\Przychodnia_online.pdb
+E:\Studia\Programowanie\II semestr\Przychodnia\Przychodnia Mateusz Oleksik\Przychodnia_online\bin\roslyn\csc.exe
+E:\Studia\Programowanie\II semestr\Przychodnia\Przychodnia Mateusz Oleksik\Przychodnia_online\bin\roslyn\csc.exe.config
+E:\Studia\Programowanie\II semestr\Przychodnia\Przychodnia Mateusz Oleksik\Przychodnia_online\bin\roslyn\csc.rsp
+E:\Studia\Programowanie\II semestr\Przychodnia\Przychodnia Mateusz Oleksik\Przychodnia_online\bin\roslyn\csi.exe
+E:\Studia\Programowanie\II semestr\Przychodnia\Przychodnia Mateusz Oleksik\Przychodnia_online\bin\roslyn\csi.exe.config
+E:\Studia\Programowanie\II semestr\Przychodnia\Przychodnia Mateusz Oleksik\Przychodnia_online\bin\roslyn\csi.rsp
+E:\Studia\Programowanie\II semestr\Przychodnia\Przychodnia Mateusz Oleksik\Przychodnia_online\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Studia\Programowanie\II semestr\Przychodnia\Przychodnia Mateusz Oleksik\Przychodnia_online\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Studia\Programowanie\II semestr\Przychodnia\Przychodnia Mateusz Oleksik\Przychodnia_online\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\Studia\Programowanie\II semestr\Przychodnia\Przychodnia Mateusz Oleksik\Przychodnia_online\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Studia\Programowanie\II semestr\Przychodnia\Przychodnia Mateusz Oleksik\Przychodnia_online\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\Studia\Programowanie\II semestr\Przychodnia\Przychodnia Mateusz Oleksik\Przychodnia_online\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Studia\Programowanie\II semestr\Przychodnia\Przychodnia Mateusz Oleksik\Przychodnia_online\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Studia\Programowanie\II semestr\Przychodnia\Przychodnia Mateusz Oleksik\Przychodnia_online\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\Studia\Programowanie\II semestr\Przychodnia\Przychodnia Mateusz Oleksik\Przychodnia_online\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\Studia\Programowanie\II semestr\Przychodnia\Przychodnia Mateusz Oleksik\Przychodnia_online\bin\roslyn\Microsoft.Managed.Core.targets
+E:\Studia\Programowanie\II semestr\Przychodnia\Przychodnia Mateusz Oleksik\Przychodnia_online\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Studia\Programowanie\II semestr\Przychodnia\Przychodnia Mateusz Oleksik\Przychodnia_online\bin\roslyn\Microsoft.Win32.Primitives.dll
+E:\Studia\Programowanie\II semestr\Przychodnia\Przychodnia Mateusz Oleksik\Przychodnia_online\bin\roslyn\System.AppContext.dll
+E:\Studia\Programowanie\II semestr\Przychodnia\Przychodnia Mateusz Oleksik\Przychodnia_online\bin\roslyn\System.Collections.Immutable.dll
+E:\Studia\Programowanie\II semestr\Przychodnia\Przychodnia Mateusz Oleksik\Przychodnia_online\bin\roslyn\System.Console.dll
+E:\Studia\Programowanie\II semestr\Przychodnia\Przychodnia Mateusz Oleksik\Przychodnia_online\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+E:\Studia\Programowanie\II semestr\Przychodnia\Przychodnia Mateusz Oleksik\Przychodnia_online\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\Studia\Programowanie\II semestr\Przychodnia\Przychodnia Mateusz Oleksik\Przychodnia_online\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\Studia\Programowanie\II semestr\Przychodnia\Przychodnia Mateusz Oleksik\Przychodnia_online\bin\roslyn\System.Globalization.Calendars.dll
+E:\Studia\Programowanie\II semestr\Przychodnia\Przychodnia Mateusz Oleksik\Przychodnia_online\bin\roslyn\System.IO.Compression.dll
+E:\Studia\Programowanie\II semestr\Przychodnia\Przychodnia Mateusz Oleksik\Przychodnia_online\bin\roslyn\System.IO.Compression.ZipFile.dll
+E:\Studia\Programowanie\II semestr\Przychodnia\Przychodnia Mateusz Oleksik\Przychodnia_online\bin\roslyn\System.IO.FileSystem.dll
+E:\Studia\Programowanie\II semestr\Przychodnia\Przychodnia Mateusz Oleksik\Przychodnia_online\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\Studia\Programowanie\II semestr\Przychodnia\Przychodnia Mateusz Oleksik\Przychodnia_online\bin\roslyn\System.Net.Http.dll
+E:\Studia\Programowanie\II semestr\Przychodnia\Przychodnia Mateusz Oleksik\Przychodnia_online\bin\roslyn\System.Net.Sockets.dll
+E:\Studia\Programowanie\II semestr\Przychodnia\Przychodnia Mateusz Oleksik\Przychodnia_online\bin\roslyn\System.Reflection.Metadata.dll
+E:\Studia\Programowanie\II semestr\Przychodnia\Przychodnia Mateusz Oleksik\Przychodnia_online\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\Studia\Programowanie\II semestr\Przychodnia\Przychodnia Mateusz Oleksik\Przychodnia_online\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\Studia\Programowanie\II semestr\Przychodnia\Przychodnia Mateusz Oleksik\Przychodnia_online\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\Studia\Programowanie\II semestr\Przychodnia\Przychodnia Mateusz Oleksik\Przychodnia_online\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\Studia\Programowanie\II semestr\Przychodnia\Przychodnia Mateusz Oleksik\Przychodnia_online\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\Studia\Programowanie\II semestr\Przychodnia\Przychodnia Mateusz Oleksik\Przychodnia_online\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\Studia\Programowanie\II semestr\Przychodnia\Przychodnia Mateusz Oleksik\Przychodnia_online\bin\roslyn\System.Threading.Tasks.Extensions.dll
+E:\Studia\Programowanie\II semestr\Przychodnia\Przychodnia Mateusz Oleksik\Przychodnia_online\bin\roslyn\System.ValueTuple.dll
+E:\Studia\Programowanie\II semestr\Przychodnia\Przychodnia Mateusz Oleksik\Przychodnia_online\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\Studia\Programowanie\II semestr\Przychodnia\Przychodnia Mateusz Oleksik\Przychodnia_online\bin\roslyn\System.Xml.XmlDocument.dll
+E:\Studia\Programowanie\II semestr\Przychodnia\Przychodnia Mateusz Oleksik\Przychodnia_online\bin\roslyn\System.Xml.XPath.dll
+E:\Studia\Programowanie\II semestr\Przychodnia\Przychodnia Mateusz Oleksik\Przychodnia_online\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\Studia\Programowanie\II semestr\Przychodnia\Przychodnia Mateusz Oleksik\Przychodnia_online\bin\roslyn\vbc.exe
+E:\Studia\Programowanie\II semestr\Przychodnia\Przychodnia Mateusz Oleksik\Przychodnia_online\bin\roslyn\vbc.exe.config
+E:\Studia\Programowanie\II semestr\Przychodnia\Przychodnia Mateusz Oleksik\Przychodnia_online\bin\roslyn\vbc.rsp
+E:\Studia\Programowanie\II semestr\Przychodnia\Przychodnia Mateusz Oleksik\Przychodnia_online\bin\roslyn\VBCSCompiler.exe
+E:\Studia\Programowanie\II semestr\Przychodnia\Przychodnia Mateusz Oleksik\Przychodnia_online\bin\roslyn\VBCSCompiler.exe.config
+E:\Studia\Programowanie\II semestr\Przychodnia\Przychodnia Mateusz Oleksik\Przychodnia_online\bin\Antlr3.Runtime.dll
+E:\Studia\Programowanie\II semestr\Przychodnia\Przychodnia Mateusz Oleksik\Przychodnia_online\bin\AspNet.ScriptManager.bootstrap.dll
+E:\Studia\Programowanie\II semestr\Przychodnia\Przychodnia Mateusz Oleksik\Przychodnia_online\bin\AspNet.ScriptManager.jQuery.dll
+E:\Studia\Programowanie\II semestr\Przychodnia\Przychodnia Mateusz Oleksik\Przychodnia_online\bin\Microsoft.AspNet.FriendlyUrls.dll
+E:\Studia\Programowanie\II semestr\Przychodnia\Przychodnia Mateusz Oleksik\Przychodnia_online\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+E:\Studia\Programowanie\II semestr\Przychodnia\Przychodnia Mateusz Oleksik\Przychodnia_online\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Studia\Programowanie\II semestr\Przychodnia\Przychodnia Mateusz Oleksik\Przychodnia_online\bin\Microsoft.ScriptManager.MSAjax.dll
+E:\Studia\Programowanie\II semestr\Przychodnia\Przychodnia Mateusz Oleksik\Przychodnia_online\bin\Microsoft.ScriptManager.WebForms.dll
+E:\Studia\Programowanie\II semestr\Przychodnia\Przychodnia Mateusz Oleksik\Przychodnia_online\bin\Microsoft.Web.Infrastructure.dll
+E:\Studia\Programowanie\II semestr\Przychodnia\Przychodnia Mateusz Oleksik\Przychodnia_online\bin\Newtonsoft.Json.dll
+E:\Studia\Programowanie\II semestr\Przychodnia\Przychodnia Mateusz Oleksik\Przychodnia_online\bin\Przychodnia Mateusz Oleksik.exe
+E:\Studia\Programowanie\II semestr\Przychodnia\Przychodnia Mateusz Oleksik\Przychodnia_online\bin\System.Web.Optimization.dll
+E:\Studia\Programowanie\II semestr\Przychodnia\Przychodnia Mateusz Oleksik\Przychodnia_online\bin\WebGrease.dll
+E:\Studia\Programowanie\II semestr\Przychodnia\Przychodnia Mateusz Oleksik\Przychodnia_online\bin\Przychodnia Mateusz Oleksik.pdb
+E:\Studia\Programowanie\II semestr\Przychodnia\Przychodnia Mateusz Oleksik\Przychodnia_online\bin\Przychodnia Mateusz Oleksik.exe.config
+E:\Studia\Programowanie\II semestr\Przychodnia\Przychodnia Mateusz Oleksik\Przychodnia_online\bin\System.Web.Optimization.xml
+E:\Studia\Programowanie\II semestr\Przychodnia\Przychodnia Mateusz Oleksik\Przychodnia_online\bin\Newtonsoft.Json.xml
+E:\Studia\Programowanie\II semestr\Przychodnia\Przychodnia Mateusz Oleksik\Przychodnia_online\bin\Antlr3.Runtime.pdb
+E:\Studia\Programowanie\II semestr\Przychodnia\Przychodnia Mateusz Oleksik\Przychodnia_online\bin\Microsoft.AspNet.FriendlyUrls.xml
+E:\Studia\Programowanie\II semestr\Przychodnia\Przychodnia Mateusz Oleksik\Przychodnia_online\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Studia\Programowanie\II semestr\Przychodnia\Przychodnia Mateusz Oleksik\Przychodnia_online\bin\pl\System.Web.Optimization.resources.dll
+E:\Studia\Programowanie\II semestr\Przychodnia\Przychodnia Mateusz Oleksik\Przychodnia_online\bin\pl\Microsoft.AspNet.FriendlyUrls.resources.dll
+E:\Studia\Programowanie\II semestr\Przychodnia\Przychodnia Mateusz Oleksik\Przychodnia_online\obj\Debug\Przychodnia_online.csprojAssemblyReference.cache
+E:\Studia\Programowanie\II semestr\Przychodnia\Przychodnia Mateusz Oleksik\Przychodnia_online\obj\Debug\Przychodnia_online.csproj.CoreCompileInputs.cache
+E:\Studia\Programowanie\II semestr\Przychodnia\Przychodnia Mateusz Oleksik\Przychodnia_online\obj\Debug\Przychodnia_online.csproj.CopyComplete
+E:\Studia\Programowanie\II semestr\Przychodnia\Przychodnia Mateusz Oleksik\Przychodnia_online\obj\Debug\Przychodnia_online.dll
+E:\Studia\Programowanie\II semestr\Przychodnia\Przychodnia Mateusz Oleksik\Przychodnia_online\obj\Debug\Przychodnia_online.pdb
+E:\OneDrive - Uniwersytet Łódzki\Studia\I rok\Programowanie\II semestr\Przychodnia\Przychodnia Mateusz Oleksik\Przychodnia_online\bin\Przychodnia_online.dll.config
+E:\OneDrive - Uniwersytet Łódzki\Studia\I rok\Programowanie\II semestr\Przychodnia\Przychodnia Mateusz Oleksik\Przychodnia_online\bin\Przychodnia_online.dll
+E:\OneDrive - Uniwersytet Łódzki\Studia\I rok\Programowanie\II semestr\Przychodnia\Przychodnia Mateusz Oleksik\Przychodnia_online\bin\Przychodnia_online.pdb
+E:\OneDrive - Uniwersytet Łódzki\Studia\I rok\Programowanie\II semestr\Przychodnia\Przychodnia Mateusz Oleksik\Przychodnia_online\bin\roslyn\csc.exe
+E:\OneDrive - Uniwersytet Łódzki\Studia\I rok\Programowanie\II semestr\Przychodnia\Przychodnia Mateusz Oleksik\Przychodnia_online\bin\roslyn\csc.exe.config
+E:\OneDrive - Uniwersytet Łódzki\Studia\I rok\Programowanie\II semestr\Przychodnia\Przychodnia Mateusz Oleksik\Przychodnia_online\bin\roslyn\csc.rsp
+E:\OneDrive - Uniwersytet Łódzki\Studia\I rok\Programowanie\II semestr\Przychodnia\Przychodnia Mateusz Oleksik\Przychodnia_online\bin\roslyn\csi.exe
+E:\OneDrive - Uniwersytet Łódzki\Studia\I rok\Programowanie\II semestr\Przychodnia\Przychodnia Mateusz Oleksik\Przychodnia_online\bin\roslyn\csi.exe.config
+E:\OneDrive - Uniwersytet Łódzki\Studia\I rok\Programowanie\II semestr\Przychodnia\Przychodnia Mateusz Oleksik\Przychodnia_online\bin\roslyn\csi.rsp
+E:\OneDrive - Uniwersytet Łódzki\Studia\I rok\Programowanie\II semestr\Przychodnia\Przychodnia Mateusz Oleksik\Przychodnia_online\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\OneDrive - Uniwersytet Łódzki\Studia\I rok\Programowanie\II semestr\Przychodnia\Przychodnia Mateusz Oleksik\Przychodnia_online\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\OneDrive - Uniwersytet Łódzki\Studia\I rok\Programowanie\II semestr\Przychodnia\Przychodnia Mateusz Oleksik\Przychodnia_online\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\OneDrive - Uniwersytet Łódzki\Studia\I rok\Programowanie\II semestr\Przychodnia\Przychodnia Mateusz Oleksik\Przychodnia_online\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\OneDrive - Uniwersytet Łódzki\Studia\I rok\Programowanie\II semestr\Przychodnia\Przychodnia Mateusz Oleksik\Przychodnia_online\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\OneDrive - Uniwersytet Łódzki\Studia\I rok\Programowanie\II semestr\Przychodnia\Przychodnia Mateusz Oleksik\Przychodnia_online\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\OneDrive - Uniwersytet Łódzki\Studia\I rok\Programowanie\II semestr\Przychodnia\Przychodnia Mateusz Oleksik\Przychodnia_online\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\OneDrive - Uniwersytet Łódzki\Studia\I rok\Programowanie\II semestr\Przychodnia\Przychodnia Mateusz Oleksik\Przychodnia_online\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\OneDrive - Uniwersytet Łódzki\Studia\I rok\Programowanie\II semestr\Przychodnia\Przychodnia Mateusz Oleksik\Przychodnia_online\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\OneDrive - Uniwersytet Łódzki\Studia\I rok\Programowanie\II semestr\Przychodnia\Przychodnia Mateusz Oleksik\Przychodnia_online\bin\roslyn\Microsoft.Managed.Core.targets
+E:\OneDrive - Uniwersytet Łódzki\Studia\I rok\Programowanie\II semestr\Przychodnia\Przychodnia Mateusz Oleksik\Przychodnia_online\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\OneDrive - Uniwersytet Łódzki\Studia\I rok\Programowanie\II semestr\Przychodnia\Przychodnia Mateusz Oleksik\Przychodnia_online\bin\roslyn\Microsoft.Win32.Primitives.dll
+E:\OneDrive - Uniwersytet Łódzki\Studia\I rok\Programowanie\II semestr\Przychodnia\Przychodnia Mateusz Oleksik\Przychodnia_online\bin\roslyn\System.AppContext.dll
+E:\OneDrive - Uniwersytet Łódzki\Studia\I rok\Programowanie\II semestr\Przychodnia\Przychodnia Mateusz Oleksik\Przychodnia_online\bin\roslyn\System.Collections.Immutable.dll
+E:\OneDrive - Uniwersytet Łódzki\Studia\I rok\Programowanie\II semestr\Przychodnia\Przychodnia Mateusz Oleksik\Przychodnia_online\bin\roslyn\System.Console.dll
+E:\OneDrive - Uniwersytet Łódzki\Studia\I rok\Programowanie\II semestr\Przychodnia\Przychodnia Mateusz Oleksik\Przychodnia_online\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+E:\OneDrive - Uniwersytet Łódzki\Studia\I rok\Programowanie\II semestr\Przychodnia\Przychodnia Mateusz Oleksik\Przychodnia_online\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\OneDrive - Uniwersytet Łódzki\Studia\I rok\Programowanie\II semestr\Przychodnia\Przychodnia Mateusz Oleksik\Przychodnia_online\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\OneDrive - Uniwersytet Łódzki\Studia\I rok\Programowanie\II semestr\Przychodnia\Przychodnia Mateusz Oleksik\Przychodnia_online\bin\roslyn\System.Globalization.Calendars.dll
+E:\OneDrive - Uniwersytet Łódzki\Studia\I rok\Programowanie\II semestr\Przychodnia\Przychodnia Mateusz Oleksik\Przychodnia_online\bin\roslyn\System.IO.Compression.dll
+E:\OneDrive - Uniwersytet Łódzki\Studia\I rok\Programowanie\II semestr\Przychodnia\Przychodnia Mateusz Oleksik\Przychodnia_online\bin\roslyn\System.IO.Compression.ZipFile.dll
+E:\OneDrive - Uniwersytet Łódzki\Studia\I rok\Programowanie\II semestr\Przychodnia\Przychodnia Mateusz Oleksik\Przychodnia_online\bin\roslyn\System.IO.FileSystem.dll
+E:\OneDrive - Uniwersytet Łódzki\Studia\I rok\Programowanie\II semestr\Przychodnia\Przychodnia Mateusz Oleksik\Przychodnia_online\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\OneDrive - Uniwersytet Łódzki\Studia\I rok\Programowanie\II semestr\Przychodnia\Przychodnia Mateusz Oleksik\Przychodnia_online\bin\roslyn\System.Net.Http.dll
+E:\OneDrive - Uniwersytet Łódzki\Studia\I rok\Programowanie\II semestr\Przychodnia\Przychodnia Mateusz Oleksik\Przychodnia_online\bin\roslyn\System.Net.Sockets.dll
+E:\OneDrive - Uniwersytet Łódzki\Studia\I rok\Programowanie\II semestr\Przychodnia\Przychodnia Mateusz Oleksik\Przychodnia_online\bin\roslyn\System.Reflection.Metadata.dll
+E:\OneDrive - Uniwersytet Łódzki\Studia\I rok\Programowanie\II semestr\Przychodnia\Przychodnia Mateusz Oleksik\Przychodnia_online\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\OneDrive - Uniwersytet Łódzki\Studia\I rok\Programowanie\II semestr\Przychodnia\Przychodnia Mateusz Oleksik\Przychodnia_online\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\OneDrive - Uniwersytet Łódzki\Studia\I rok\Programowanie\II semestr\Przychodnia\Przychodnia Mateusz Oleksik\Przychodnia_online\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\OneDrive - Uniwersytet Łódzki\Studia\I rok\Programowanie\II semestr\Przychodnia\Przychodnia Mateusz Oleksik\Przychodnia_online\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\OneDrive - Uniwersytet Łódzki\Studia\I rok\Programowanie\II semestr\Przychodnia\Przychodnia Mateusz Oleksik\Przychodnia_online\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\OneDrive - Uniwersytet Łódzki\Studia\I rok\Programowanie\II semestr\Przychodnia\Przychodnia Mateusz Oleksik\Przychodnia_online\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\OneDrive - Uniwersytet Łódzki\Studia\I rok\Programowanie\II semestr\Przychodnia\Przychodnia Mateusz Oleksik\Przychodnia_online\bin\roslyn\System.Threading.Tasks.Extensions.dll
+E:\OneDrive - Uniwersytet Łódzki\Studia\I rok\Programowanie\II semestr\Przychodnia\Przychodnia Mateusz Oleksik\Przychodnia_online\bin\roslyn\System.ValueTuple.dll
+E:\OneDrive - Uniwersytet Łódzki\Studia\I rok\Programowanie\II semestr\Przychodnia\Przychodnia Mateusz Oleksik\Przychodnia_online\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\OneDrive - Uniwersytet Łódzki\Studia\I rok\Programowanie\II semestr\Przychodnia\Przychodnia Mateusz Oleksik\Przychodnia_online\bin\roslyn\System.Xml.XmlDocument.dll
+E:\OneDrive - Uniwersytet Łódzki\Studia\I rok\Programowanie\II semestr\Przychodnia\Przychodnia Mateusz Oleksik\Przychodnia_online\bin\roslyn\System.Xml.XPath.dll
+E:\OneDrive - Uniwersytet Łódzki\Studia\I rok\Programowanie\II semestr\Przychodnia\Przychodnia Mateusz Oleksik\Przychodnia_online\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\OneDrive - Uniwersytet Łódzki\Studia\I rok\Programowanie\II semestr\Przychodnia\Przychodnia Mateusz Oleksik\Przychodnia_online\bin\roslyn\vbc.exe
+E:\OneDrive - Uniwersytet Łódzki\Studia\I rok\Programowanie\II semestr\Przychodnia\Przychodnia Mateusz Oleksik\Przychodnia_online\bin\roslyn\vbc.exe.config
+E:\OneDrive - Uniwersytet Łódzki\Studia\I rok\Programowanie\II semestr\Przychodnia\Przychodnia Mateusz Oleksik\Przychodnia_online\bin\roslyn\vbc.rsp
+E:\OneDrive - Uniwersytet Łódzki\Studia\I rok\Programowanie\II semestr\Przychodnia\Przychodnia Mateusz Oleksik\Przychodnia_online\bin\roslyn\VBCSCompiler.exe
+E:\OneDrive - Uniwersytet Łódzki\Studia\I rok\Programowanie\II semestr\Przychodnia\Przychodnia Mateusz Oleksik\Przychodnia_online\bin\roslyn\VBCSCompiler.exe.config
+E:\OneDrive - Uniwersytet Łódzki\Studia\I rok\Programowanie\II semestr\Przychodnia\Przychodnia Mateusz Oleksik\Przychodnia_online\bin\Antlr3.Runtime.dll
+E:\OneDrive - Uniwersytet Łódzki\Studia\I rok\Programowanie\II semestr\Przychodnia\Przychodnia Mateusz Oleksik\Przychodnia_online\bin\AspNet.ScriptManager.bootstrap.dll
+E:\OneDrive - Uniwersytet Łódzki\Studia\I rok\Programowanie\II semestr\Przychodnia\Przychodnia Mateusz Oleksik\Przychodnia_online\bin\AspNet.ScriptManager.jQuery.dll
+E:\OneDrive - Uniwersytet Łódzki\Studia\I rok\Programowanie\II semestr\Przychodnia\Przychodnia Mateusz Oleksik\Przychodnia_online\bin\Microsoft.AspNet.FriendlyUrls.dll
+E:\OneDrive - Uniwersytet Łódzki\Studia\I rok\Programowanie\II semestr\Przychodnia\Przychodnia Mateusz Oleksik\Przychodnia_online\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+E:\OneDrive - Uniwersytet Łódzki\Studia\I rok\Programowanie\II semestr\Przychodnia\Przychodnia Mateusz Oleksik\Przychodnia_online\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\OneDrive - Uniwersytet Łódzki\Studia\I rok\Programowanie\II semestr\Przychodnia\Przychodnia Mateusz Oleksik\Przychodnia_online\bin\Microsoft.ScriptManager.MSAjax.dll
+E:\OneDrive - Uniwersytet Łódzki\Studia\I rok\Programowanie\II semestr\Przychodnia\Przychodnia Mateusz Oleksik\Przychodnia_online\bin\Microsoft.ScriptManager.WebForms.dll
+E:\OneDrive - Uniwersytet Łódzki\Studia\I rok\Programowanie\II semestr\Przychodnia\Przychodnia Mateusz Oleksik\Przychodnia_online\bin\Microsoft.Web.Infrastructure.dll
+E:\OneDrive - Uniwersytet Łódzki\Studia\I rok\Programowanie\II semestr\Przychodnia\Przychodnia Mateusz Oleksik\Przychodnia_online\bin\Newtonsoft.Json.dll
+E:\OneDrive - Uniwersytet Łódzki\Studia\I rok\Programowanie\II semestr\Przychodnia\Przychodnia Mateusz Oleksik\Przychodnia_online\bin\Przychodnia Mateusz Oleksik.exe
+E:\OneDrive - Uniwersytet Łódzki\Studia\I rok\Programowanie\II semestr\Przychodnia\Przychodnia Mateusz Oleksik\Przychodnia_online\bin\System.Web.Optimization.dll
+E:\OneDrive - Uniwersytet Łódzki\Studia\I rok\Programowanie\II semestr\Przychodnia\Przychodnia Mateusz Oleksik\Przychodnia_online\bin\WebGrease.dll
+E:\OneDrive - Uniwersytet Łódzki\Studia\I rok\Programowanie\II semestr\Przychodnia\Przychodnia Mateusz Oleksik\Przychodnia_online\bin\Przychodnia Mateusz Oleksik.pdb
+E:\OneDrive - Uniwersytet Łódzki\Studia\I rok\Programowanie\II semestr\Przychodnia\Przychodnia Mateusz Oleksik\Przychodnia_online\bin\Przychodnia Mateusz Oleksik.exe.config
+E:\OneDrive - Uniwersytet Łódzki\Studia\I rok\Programowanie\II semestr\Przychodnia\Przychodnia Mateusz Oleksik\Przychodnia_online\bin\System.Web.Optimization.xml
+E:\OneDrive - Uniwersytet Łódzki\Studia\I rok\Programowanie\II semestr\Przychodnia\Przychodnia Mateusz Oleksik\Przychodnia_online\bin\Newtonsoft.Json.xml
+E:\OneDrive - Uniwersytet Łódzki\Studia\I rok\Programowanie\II semestr\Przychodnia\Przychodnia Mateusz Oleksik\Przychodnia_online\bin\Antlr3.Runtime.pdb
+E:\OneDrive - Uniwersytet Łódzki\Studia\I rok\Programowanie\II semestr\Przychodnia\Przychodnia Mateusz Oleksik\Przychodnia_online\bin\Microsoft.AspNet.FriendlyUrls.xml
+E:\OneDrive - Uniwersytet Łódzki\Studia\I rok\Programowanie\II semestr\Przychodnia\Przychodnia Mateusz Oleksik\Przychodnia_online\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\OneDrive - Uniwersytet Łódzki\Studia\I rok\Programowanie\II semestr\Przychodnia\Przychodnia Mateusz Oleksik\Przychodnia_online\bin\pl\System.Web.Optimization.resources.dll
+E:\OneDrive - Uniwersytet Łódzki\Studia\I rok\Programowanie\II semestr\Przychodnia\Przychodnia Mateusz Oleksik\Przychodnia_online\bin\pl\Microsoft.AspNet.FriendlyUrls.resources.dll
+E:\OneDrive - Uniwersytet Łódzki\Studia\I rok\Programowanie\II semestr\Przychodnia\Przychodnia Mateusz Oleksik\Przychodnia_online\obj\Debug\Przychodnia_online.csprojAssemblyReference.cache
+E:\OneDrive - Uniwersytet Łódzki\Studia\I rok\Programowanie\II semestr\Przychodnia\Przychodnia Mateusz Oleksik\Przychodnia_online\obj\Debug\Przychodnia_online.csproj.CoreCompileInputs.cache
+E:\OneDrive - Uniwersytet Łódzki\Studia\I rok\Programowanie\II semestr\Przychodnia\Przychodnia Mateusz Oleksik\Przychodnia_online\obj\Debug\Przychodnia_online.csproj.CopyComplete
+E:\OneDrive - Uniwersytet Łódzki\Studia\I rok\Programowanie\II semestr\Przychodnia\Przychodnia Mateusz Oleksik\Przychodnia_online\obj\Debug\Przychodnia_online.dll
+E:\OneDrive - Uniwersytet Łódzki\Studia\I rok\Programowanie\II semestr\Przychodnia\Przychodnia Mateusz Oleksik\Przychodnia_online\obj\Debug\Przychodnia_online.pdb
